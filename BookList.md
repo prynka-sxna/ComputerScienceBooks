@@ -1,3 +1,7 @@
+**B. Tech.**
+
+- Compilers: Principles, Techniques, & Tools - Alfred V. Aho
+
 **MICROSERVICES**
 
 - Building Microservices: Designing Fine-Grained Systems - Sam Newman
