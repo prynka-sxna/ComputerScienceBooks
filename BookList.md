@@ -10,6 +10,7 @@
 
 - 97 Things Every Programmer Should Know - Kevlin Henney
 - 97 Things Every Software Architect Should Know - Kevlin Henney
+- Clean Code: A Handbook of Agile Software Craftsmanship - Robert C. Martin
 - Programming Language Concepts - Carlo Ghezzi
 - Refactoring: Improving the Design of Existing Code - Martin Fowler
 - The Pragmatic Programmer: From Journeyman to Master - Andrew Hunt, David Thomas
