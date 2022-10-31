@@ -2,6 +2,10 @@
 
 - Compilers: Principles, Techniques, & Tools - Alfred V. Aho
 
+**Hardware**
+
+- The Datacenter as a Computer - Luiz Andre Barroso, Jimmy Clidaras, Urs Holzle
+
 **MICROSERVICES**
 
 - Building Microservices: Designing Fine-Grained Systems - Sam Newman
@@ -14,3 +18,4 @@
 - Programming Language Concepts - Carlo Ghezzi
 - Refactoring: Improving the Design of Existing Code - Martin Fowler
 - The Pragmatic Programmer: From Journeyman to Master - Andrew Hunt, David Thomas
+- Working Effectively With Legacy Code - Michael C. Feathers
