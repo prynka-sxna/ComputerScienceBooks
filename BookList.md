@@ -17,5 +17,6 @@
 - Clean Code: A Handbook of Agile Software Craftsmanship - Robert C. Martin
 - Programming Language Concepts - Carlo Ghezzi
 - Refactoring: Improving the Design of Existing Code - Martin Fowler
+- Release It! - Michael T. Nygard
 - The Pragmatic Programmer: From Journeyman to Master - Andrew Hunt, David Thomas
 - Working Effectively With Legacy Code - Michael C. Feathers
