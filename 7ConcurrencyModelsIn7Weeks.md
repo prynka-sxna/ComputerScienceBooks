@@ -12,7 +12,7 @@
 
 **5. Communicating Sequential Processes**
 
-**6. Data Parallelism**
+**6. Data Parallelism** GPGPU
 
 **7. Lambda Acrhitecture**
 
