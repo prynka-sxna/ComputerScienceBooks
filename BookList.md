@@ -20,3 +20,4 @@
 - Release It! - Michael T. Nygard
 - The Pragmatic Programmer: From Journeyman to Master - Andrew Hunt, David Thomas
 - Working Effectively With Legacy Code - Michael C. Feathers
+- Building Evolutionary Architectures - Neal Ford, Rebecca Parsons, Patrick Kua
