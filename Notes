@@ -1,0 +1,11 @@
+EDA: Broker v/s Mediator
+SOA (Service Oriented Archi): Enterprise Service Bus v/s Microservices
+Serverless Archi (BaaS or FaaS)
+Quantum of scope
+Shared DB integ
+
+fitness func, incremental change, apt coupling
+
+COTS
+Transactional boundaries: two phase commit
+framework vs library
