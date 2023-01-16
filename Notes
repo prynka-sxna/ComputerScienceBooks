@@ -9,3 +9,11 @@ fitness func, incremental change, apt coupling
 COTS
 Transactional boundaries: two phase commit
 framework vs library
+
+Design Pattern: Observer, Decorator, Factory, Singleton, Command, Adapter and facade, template method, iterator and composite, state, proxy, compound patterns, 
+
+Archi: Layered for separation of concern, event driven, micrkernel ( core + plug-in) , microservice, space based (processing unit + virtualized middleware) mssg/data/processing grid + deployment manager
+Overall agility, ease of deployment, testability, performance, scalability, ease of dev
+mediator: event queue, event mediator, event channel, event processor
+broker: broker, event processor
+ ms: api rest-based, app rest-based, centralized messaging topology
